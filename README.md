@@ -15,6 +15,6 @@ Este é um programa Node.js que analisa a complexidade do código JavaScript em 
 ## Como usar
 
 1. Defina a variável de ambiente `GITHUB_TOKEN` com o seu token de acesso pessoal do GitHub: `export GITHUB_TOKEN=seu-token`.
-2. Edite o arquivo `index.js` para configurar o proprietário e o repositório do GitHub que você deseja analisar.
-3. Execute o comando `node index.js` para iniciar a análise de complexidade de código.
+2. Edite o arquivo `github-escomplex.js` para configurar o proprietário e o repositório do GitHub que você deseja analisar.
+3. Execute o comando `node github-escomplex.js` para iniciar a análise de complexidade de código.
 4. Os resultados serão salvos em um arquivo CSV chamado `results.csv`.
