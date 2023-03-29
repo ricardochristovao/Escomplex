@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "csv-writer": "^1.6.0",
+    "escomplex": "^2.0.0-alpha",
+    "esprima": "^4.0.1",
+    "simple-git": "^3.17.0"
+  }
+}
